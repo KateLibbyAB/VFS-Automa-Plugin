@@ -12,4 +12,4 @@
 
 ## Go back from payment
 
-Если на вкладке Payment Disclaimer Ctrl + Shift + Enter алгоритм возвращает на вкладку выбора слота.
+На вкладке с надписью Payment Disclaimer Ctrl + Shift + Enter алгоритм возвращает на вкладку выбора слота.
